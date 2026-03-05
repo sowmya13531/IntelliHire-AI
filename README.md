@@ -18,6 +18,13 @@ The goal of this project is to simulate how modern Applicant Tracking Systems (A
 * **PyMuPDF** – PDF text extraction
 * **Environment Variables (.env)** – Secure API key handling
 
+# DEMO
+![App Demo](demo/Screenshot%20(228).png)
+![App Demo](demo/Screenshot%20(229).png)
+![App Demo](demo/Screenshot%20(230).png)
+![App Demo](demo/Screenshot%20(231).png)
+![App Demo](demo/Screenshot%20(232).png)
+
 # 🏗️ System Architecture Overview
 User Input → Streamlit Interface →
 Resume Text Extraction →
